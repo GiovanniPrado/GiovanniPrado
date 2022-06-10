@@ -1,7 +1,7 @@
 ### Hey you! I'm Giovanni Prado👋
 
 
-- 🔭 Currently working in a API integration project
+- 🔭 Currently working in an API integration project
 - 🌱 Learning API REST, MySQL, CSS e HTML
 - 😄 Pronouns: ele/dele
 
