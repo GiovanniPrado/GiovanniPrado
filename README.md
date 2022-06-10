@@ -2,8 +2,8 @@
 
 
 - 🔭 Currently working in an API integration project
-- 🌱 Learning API REST, MySQL, CSS e HTML
-- 😄 Pronouns: ele/dele
+- 🌱 Learning API REST, MySQL, CSS and HTML
+- 😄 Pronouns: he/him
 
 <div align="center">
   <a href="https://github.com/GiovanniPrado">
