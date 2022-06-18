@@ -1,7 +1,7 @@
 ### Hey you! I'm Giovanni Prado👋
 
 
-- 🔭 Currently working in an API integration project
+- 🔭 Currently working on an API integration project
 - 🌱 Learning API REST, MySQL, CSS and HTML
 - 😄 Pronouns: he/him
 
